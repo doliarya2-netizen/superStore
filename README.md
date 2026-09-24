@@ -102,7 +102,7 @@ The dashboard can be used to analyze:
 ---
 
 ## 📸 Dashboard Preview
-Dashboard(dashboardsuperStore.png)
+![Dashboard](dashboardsuperStore.png)
 ---
 
 ## 💡 Business Value
